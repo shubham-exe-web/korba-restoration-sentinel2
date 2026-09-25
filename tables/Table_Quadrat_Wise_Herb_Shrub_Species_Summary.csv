@@ -1,0 +1,11 @@
+Quadrat,Mining_Type,Shrub_Species_Names,Summer_Herb_Species,Monsoon_Herb_Species,Winter_Herb_Species
+UG-Q1,Underground,"Ziziphus mauritiana Lam., Lantana camara L.",Cynodon dactylon,"Hyptis suaveolens, Senna tora, Cynodon dactylon","Hyptis suaveolens, Cynodon dactylon"
+UG-Q2,Underground,"Nyctanthes arbor-tristis L., Lantana camara L.",Evolvulus nummularius,"Phyllanthus niruri L., Evolvulus nummularius, Senna tora",Evolvulus nummularius
+UG-Q3,Underground,"Ziziphus mauritiana Lam., Shorea robusta Gaertn.",None (Dormant seed bank / Dry rootstock),"Diplazium esculentum, Ageratum conyzoides L.","Diplazium esculentum, Ageratum conyzoides L."
+UG-Q4,Underground,"Woodfordia fruticosa, Lantana camara L.",Heteropogon contortus,"Ageratum conyzoides L., Heteropogon contortus, Euphorbia hirta L.","Ageratum conyzoides L., Heteropogon contortus"
+UG-Q5,Underground,"Ziziphus mauritiana Lam., Woodfordia fruticosa",None (Dormant seed bank / Dry rootstock),"Parthenium hysterophorus L., Senna tora, Hyptis suaveolens",Hyptis suaveolens
+OC-Q1,Opencast,"Calotropis procera, Lantana camara L.",Cynodon dactylon,"Parthenium hysterophorus L., Senna tora, Cynodon dactylon",Cynodon dactylon
+OC-Q2,Opencast,"Carissa carandas L., Calotropis procera","Evolvulus nummularius, Cynodon dactylon","Diplazium esculentum, Evolvulus nummularius, Cynodon dactylon","Diplazium esculentum, Evolvulus nummularius, Cynodon dactylon"
+OC-Q3,Opencast,"Phanera vahlii, Lantana camara L.",Heteropogon contortus,"Euphorbia hirta L., Acalypha indica L., Heteropogon contortus",Heteropogon contortus
+OC-Q4,Opencast,"Holarrhena antidysenterica, Lantana camara L.",Cynodon dactylon,"Hyptis suaveolens, Senna tora, Cynodon dactylon","Hyptis suaveolens, Cynodon dactylon"
+OC-Q5,Opencast,Lantana camara L.,None (Dormant seed bank / Dry rootstock),"Parthenium hysterophorus L., Senna tora, Euphorbia hirta L.",None (Senescent / Dry stalks)

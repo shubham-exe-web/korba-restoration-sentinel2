@@ -1,0 +1,11 @@
+Quadrat_ID,Mining_type,Verified_Tree_Species_Richness,Verified_Overstory_Stems,Carbon_Stock_tC_ha,In_Plot_Woody_Shrub_Status,ZoneA_NDVI_Summer,ZoneA_NDVI_Monsoon,ZoneA_NDVI_Winter,ZoneA_Seasonal_Amplitude,ZoneA_Winter_to_Monsoon_Ratio,Remotely_Characterized_Signal
+UG-Q1,Underground,5,6,25.23,Measured in-plot woody shrub/small tree present,0.3169,0.5186999999999999,0.5776,0.2018,1.1136,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q2,Underground,3,4,22.95,No measured shrub stem >=10cm GBH,0.3819,0.5943,0.5354,0.2124,0.9009,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q3,Underground,4,6,26.71,Measured in-plot woody shrub/small tree present,0.4777,0.55255,0.46465,0.0748,0.8409,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+UG-Q4,Underground,3,4,24.16,No measured shrub stem >=10cm GBH,0.4656,0.6267,0.5770500000000001,0.1611,0.9208,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q5,Underground,4,5,23.66,Measured in-plot woody shrub/small tree present,0.26475,0.45694999999999997,0.3988,0.1922,0.8727,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+OC-Q1,Opencast,3,8,16.81,No measured shrub stem >=10cm GBH,0.4576,0.6377999999999999,0.579,0.1802,0.9078,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q2,Opencast,4,4,18.48,Measured in-plot woody shrub/small tree present,0.23854999999999998,0.36645,0.41355,0.1279,1.1285,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q3,Opencast,3,7,15.84,No measured shrub stem >=10cm GBH,0.1894,0.34740000000000004,0.28745,0.158,0.8274,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+OC-Q4,Opencast,3,8,17.67,Measured in-plot woody shrub/small tree present,0.41590000000000005,0.6666,0.6703,0.2507,1.0055,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q5,Opencast,3,6,16.52,No measured shrub stem >=10cm GBH,0.2137,0.49915,0.46955,0.2854,0.9407,Canopy/Understory Signal: High Seasonal Green-Up Flush

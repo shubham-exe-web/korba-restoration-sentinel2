@@ -1,0 +1,11 @@
+Quadrat,Lat,Lon,Mining,Verified Stems,Richness,Carbon (t C/ha),Summer NDVI,Monsoon NDVI,Winter NDVI,ΔNDVI (Amplitude),Win/Mon Ratio,Vegetation Dynamic Signature
+UG-Q1,22.422136,82.586519,Underground,6,5,25.23,0.3169,0.5186999999999999,0.5776,0.2018,1.1136,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q2,22.404199,82.633904,Underground,4,3,22.95,0.3819,0.5943,0.5354,0.2124,0.9009,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q3,22.413226,82.630137,Underground,6,4,26.71,0.4777,0.55255,0.46465,0.0748,0.8409,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+UG-Q4,22.395806,82.604232,Underground,4,3,24.16,0.4656,0.6267,0.5770500000000001,0.1611,0.9208,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+UG-Q5,22.430608,82.581408,Underground,5,4,23.66,0.26475,0.4569499999999999,0.3988,0.1922,0.8727,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+OC-Q1,22.356579,82.57891,Opencast,8,3,16.81,0.4576,0.6377999999999999,0.579,0.1802,0.9078,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q2,22.358327,82.580214,Opencast,4,4,18.48,0.2385499999999999,0.36645,0.41355,0.1279,1.1285,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q3,22.359611,82.582041,Opencast,7,3,15.84,0.1894,0.3474,0.28745,0.158,0.8274,Canopy/Understory Signal: Mixed Deciduous Canopy with Understory Turnover
+OC-Q4,22.361084,82.584993,Opencast,8,3,17.67,0.4159,0.6666,0.6703,0.2507,1.0055,Canopy/Understory Signal: Persistent Woody / Shrub Baseline
+OC-Q5,22.36279,82.587521,Opencast,6,3,16.52,0.2137,0.49915,0.46955,0.2854,0.9407,Canopy/Understory Signal: High Seasonal Green-Up Flush

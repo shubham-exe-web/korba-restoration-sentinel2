@@ -1,0 +1,43 @@
+S_No,Scientific_name,Family,Mining_area,Stratum,Summer_Status,Monsoon_Status,Winter_Status,Summer_Present,Monsoon_Present,Winter_Present
+1,Alstonia scholaris,Apocynaceae,UG,Tree,Present (Foliated),Present (Active vegetative flush),Present (Flowering / Foliated),True,True,True
+2,Azadirachta indica,Meliaceae,UG,Tree,Present (Flowering / Leaf flush),Present (Lush canopy),Present (Mature canopy),True,True,True
+3,Bauhinia vahlii,Fabaceae,OC,Liana,Present (Woody stems / Late flush),Present (Lush foliar cover),Present (Pods / Persistent leaves),True,True,True
+4,Butea monosperma,Fabaceae,OC,Tree,Present (Flowering / Early flush),Present (Dense foliar canopy),Present (Mature canopy),True,True,True
+5,Carissa carandas,Apocynaceae,OC,Shrub,Present (Evergreen / Bloom),Present (Fruiting / Lush),Present (Dense evergreen canopy),True,True,True
+6,Diospyros melanoxylon,Ebenaceae,OC and UG,Tree,Present (Leaf drop / Fresh flush),Present (Dense coriaceous canopy),Present (Mature leaves),True,True,True
+7,Eucalyptus tereticornis,Myrtaceae,OC,Tree,Present (Evergreen canopy),Present (Active vegetative flush),Present (Evergreen canopy),True,True,True
+8,Ficus benghalensis,Moraceae,OC,Tree,Present (Dense evergreen),Present (Lush crown),Present (Dense evergreen),True,True,True
+9,Ficus racemosa,Moraceae,OC,Tree,Present (Trunk cauliflory / Brief drop),Present (Lush canopy),Present (Persistent canopy),True,True,True
+10,Ficus religiosa,Moraceae,UG,Tree,Present (Bronze leaf flush),Present (Dense foliage),Present (Persistent canopy),True,True,True
+11,Ficus virens,Moraceae,UG,Tree,Present (Spring leaf flush),Present (Lush canopy),Present (Persistent canopy),True,True,True
+12,Gmelina arborea,Lamiaceae,OC,Tree,Present (Flowering / Flush),Present (Dense broad leaves),Present (Senescing late winter),True,True,True
+13,Holarrhena antidysenterica,Apocynaceae,OC,Shrub,Present (White flowers / Early flush),Present (Dense leafy thicket),Present (Paired pods / Foliated),True,True,True
+14,Madhuca longifolia,Sapotaceae,UG,Tree,Present (Corolla fall / Coppery flush),Present (Dense canopy),Present (Mature canopy),True,True,True
+15,Mangifera indica,Anacardiaceae,OC and UG,Tree,Present (Fruiting / Evergreen),Present (Active vegetative flush),Present (Dense evergreen),True,True,True
+16,Millingtonia hortensis,Bignoniaceae,OC,Tree,Present (Foliated),Present (Lush growth),Present (Fragrant white flowers),True,True,True
+17,Pongamia pinnata,Fabaceae,OC,Tree,Present (Bright flush / Bloom),Present (Dense shade canopy),Present (Mature leaves / Pods),True,True,True
+18,Shorea robusta,Dipterocarpaceae,UG,Tree,Present (Emerald flush / Bloom),Present (Dense closed canopy),Present (Dense coriaceous canopy),True,True,True
+19,Tamarindus indica,Fabaceae,OC and UG,Tree,Present (Feathery evergreen),Present (Lush canopy),Present (Dense evergreen),True,True,True
+20,Terminalia elliptica,Combretaceae,UG,Tree,Present (Leafless / Late flush),Present (Broadleaved canopy),Present (Yellowing / Senescing),True,True,True
+21,Terminalia tomentosa,Combretaceae,UG,Tree,Present (Leafless / Late flush),Present (Dense canopy),Present (Yellowing / Senescing),True,True,True
+22,Tectona grandis,Lamiaceae,OC & UG,Tree,Leafless (Deciduous dormancy),Present (Massive leafy canopy),Present (Skeletonizing / Drying),False,True,True
+23,Vachellia nilotica,Fabaceae,UG,Tree,Present (Yellow bloom / Flush),Present (Active foliar growth),Present (Pods / Persistent),True,True,True
+24,Wrightia tinctoria,Apocynaceae,UG,Tree,Present (White bloom / Flush),Present (Dense subcanopy),Present (Pendulous follicles),True,True,True
+25,Ziziphus mauritiana,Rhamnaceae,UG,Shrub,Present (Drought-tolerant / Stunted),Present (Thorny vegetative growth),Present (Fruiting / Foliated),True,True,True
+26,Lantana camara,Verbenaceae,OC and UG,Shrub,Present (Drought-tolerant scrub),Present (Dense vigorous thickets),Present (Continuous flowering/fruiting),True,True,True
+27,Woodfordia fruticosa,Lythraceae,OC and UG,Shrub,Present (Leafless / Late bloom),Present (Lush leafy shoots),Present (Profuse scarlet flowers),True,True,True
+28,Calotropis procera,Apocynaceae,OC,Shrub,Present (Glaucous thick leaves),Present (Active vegetative growth),Present (Evergreen xerophyte),True,True,True
+29,Nyctanthes arbor-tristis,Oleaceae,OC and UG,Shrub,Present (Dormant stems),Present (Rough opposite leaves),Present (Sweet scented flowers),True,True,True
+30,Nerium oleander,Apocynaceae,OC,Shrub,Present (Foliated),Present (Lush growth),Present (Persistent foliage),True,True,True
+31,Parthenium hysterophorus,Asteraceae,OC and UG,Herb,Absent (Dormant seed bank),Present (Peak dominant carpet),Senescent (Dry seed stalks),False,True,False
+32,Senna tora,Fabaceae,OC and UG,Herb,Absent (Dormant seed bank),Present (Monospecific flush / Bloom),Senescent (Dry sickle pods),False,True,False
+33,Hyptis suaveolens,Lamiaceae,OC and UG,Herb,Absent (Dry skeletons),Present (Tall dense growth 1-2m),Present (Flowering / Drying),False,True,True
+34,Chromolaena odorata,Asteraceae,OC and UG,Herb,Present (Dry foliage),Present (Rapid leafy flush),Present (White/Lilac flowers),True,True,True
+35,Ageratum conyzoides,Asteraceae,OC and UG,Herb,Absent (Restricted to sumps),Present (Abundant ground cover),Present (Cool season bloom),False,True,True
+36,Euphorbia hirta,Euphorbiaceae,OC and UG,Herb,Absent (Desiccated),Present (Common on bare spoil),Senescent (Dry capsules),False,True,False
+37,Phyllanthus niruri,Phyllanthaceae,OC and UG,Herb,Absent (Dormant),Present (Abundant understory herb),Senescent (Yellowing / Dying),False,True,False
+38,Evolvulus nummularius,Convolvulaceae,OC and UG,Herb,Present (Dry rootstock),Present (Lush creeping carpet),Present (Persistent green patches),True,True,True
+39,Cynodon dactylon,Poaceae,OC and UG,Herb,Present (Dormant brown turf),Present (Vivid green lawn),Present (Green-brown turf),True,True,True
+40,Heteropogon contortus,Poaceae,OC and UG,Herb,Present (Dry golden tussocks),Present (Rapid vegetative growth),Present (Black awned spear grass),True,True,True
+41,Diplazium esculentum,Athyriaceae,OC,Herb,Absent (Desiccated fronds),Present (Lush green fronds),Present (Moist sump margins),False,True,True
+42,Acalypha indica,Euphorbiaceae,OC and UG,Herb,Absent (Dormant),Present (Active vegetative flush),Senescent (Dying back),False,True,False
